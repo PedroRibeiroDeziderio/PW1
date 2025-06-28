@@ -1,0 +1,70 @@
+.lg{
+    color: chartreuse;
+}
+
+.corpo{
+    text-align: center;
+    background: #000;
+    }
+
+.div-email{
+    margin: 50px;
+    font-size: 45px;
+    }
+        
+.email{
+    width: 25rem;
+    height: 2rem;
+    font-size: 25px;
+    color: black;
+    border-radius: 30px;
+    }
+
+.div-senha{
+    margin: 50px;
+    }
+
+.senha{
+    width: 25rem;
+    height: 2rem;
+    font-size: 25px;
+    color: black;
+    border-radius: 30px;
+    }
+.botao{
+    width: 15rem;
+    height: 2rem;
+    font-size: 25px;
+    border-radius: 30px;
+    background: #fffb00;
+    }
+
+.botao:hover{
+    opacity: 0.8;
+    transform: scale(110%);
+    }
+
+.a,
+.b,
+.c,
+.d{
+    color: chartreuse;
+}
+
+.a:hover{
+    color:#fffb00
+}
+
+.b:hover{
+    color:#fffb00
+}
+
+.c:hover{
+    color:#fffb00
+}
+
+.d:hover{
+    color:#fffb00
+}
+
+    

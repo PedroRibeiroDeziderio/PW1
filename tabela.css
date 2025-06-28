@@ -1,0 +1,43 @@
+table,th,td{
+    border: 3px solid;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  
+}
+
+tr:nth-child(even) {background-color: gray;}
+
+th{
+    height: 40px;
+    background-color: chartreuse;
+    color: dimgray;
+    text-align: center;
+}
+
+.a,
+.b,
+.c{
+    color: #ff002b;
+    text-align: center;
+    font-size: 60px;   
+}
+
+.a:hover{
+    color: chartreuse;
+}
+
+.b:hover{
+    color: chartreuse;
+}
+
+.c:hover{
+    color: chartreuse;
+}

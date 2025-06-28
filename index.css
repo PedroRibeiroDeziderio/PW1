@@ -47,7 +47,8 @@
 .a,
 .b,
 .c,
-.d{
+.d,
+.e{
     color: chartreuse;
 }
 
@@ -64,6 +65,10 @@
 }
 
 .d:hover{
+    color:#fffb00
+}
+
+.e:hover{
     color:#fffb00
 }
 
